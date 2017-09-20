@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author jkaiser
+ *
+ */
+package StockRanker;
